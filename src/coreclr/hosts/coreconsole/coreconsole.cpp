@@ -7,6 +7,8 @@
 // The dll binary must contain main entry point.
 //
 
+// Test comment
+
 #include "windows.h"
 #include <stdio.h>
 #include "mscoree.h"
